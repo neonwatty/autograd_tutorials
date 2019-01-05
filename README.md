@@ -1,6 +1,6 @@
 # `autograd` tutorial notebooks  
 
-This repo contains a set of Jupyter notebook describing how to use various [autograd](https://github.com/HIPS/autograd) functionalities including:
+This repo contains a set of Jupyter notebook describing how to use various [autograd](https://github.com/HIPS/autograd) functionalities, complementing the excellent tutorial located at the repo itself, including:
 
 - [**basic_autograd_examples.ipynb**](https://nbviewer.jupyter.org/github/jermwatt/autograd_tutorials/blob/master/basic_autograd_examples.ipynb) covering basic functionalities such as: derivative computation using standard and lambda functions, subtleties involved in automatic differentiation and the array of gradient prototypes provided by `autograd`, and computing partial derivatives of multi-input functions
 
