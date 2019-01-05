@@ -1,4 +1,4 @@
-# `autograd` tutorial notebooks  
+# A few `autograd` tutorial notebooks  
 
 This repo contains a set of Jupyter notebook describing how to use various [autograd](https://github.com/HIPS/autograd) functionalities, complementing the excellent tutorial located at the repo itself, including:
 
