@@ -1,8 +1,21 @@
-# How to use autograd's flatten_func
+# Tutorial notebooks illustrating `autograd` functionalities
 
-This repo contains a short Jupyter notebook describing how to use [autograd](https://github.com/HIPS/autograd)'s [flatten_func](https://github.com/HIPS/autograd/blob/master/autograd/misc/flatten.py), and what it does.  
+This repo contains a set of Jupyter notebook describing how to use various [autograd](https://github.com/HIPS/autograd) functionalities including:
 
-View the fully rendered notebook online at https://bit.ly/2QGWkWm.
+[basic functionalities] including 
+
+- **computing derivatives using standard and lambda (anonymous) functions**
+
+- **subtleties involved in automatic differentiation - in particular how evaluating a gradient gets you a function evaluation as well 'for free'**
+
+- **computing individual partial derivatives of multi-input functions**
+
+- **computing higher order partial derivatives of multi-input functions**
+
+- **computing higher order Taylor series approximations**
+
+- the [flatten_func](https://github.com/HIPS/autograd/blob/master/autograd/misc/flatten.py) function 
+
       
 <img src="https://github.com/jermwatt/autograd_flatten_func_description/blob/master/flattening.png" width="425"/> 
 
